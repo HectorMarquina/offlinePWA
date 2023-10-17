@@ -6,7 +6,7 @@ const APP_SHELL = [
     '/',
     '/index.html',
     'js/app.js',
-    'img/wongsito.png',
+    'img/lyffy2.png',
     'css/styles.css',
     'pages/offline.html'
 ];
